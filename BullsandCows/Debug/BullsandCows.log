@@ -1,2 +1,5 @@
 ﻿  BullsandCows.cpp
+c:\users\ali\source\repos\section_02\bullsandcows\bullsandcows.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ali\source\repos\section_02\bullsandcows\bullsandcows.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ali\source\repos\section_02\bullsandcows\bullsandcows.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   BullsandCows.vcxproj -> C:\Users\Ali\source\repos\Section_02\Debug\BullsandCows.exe
